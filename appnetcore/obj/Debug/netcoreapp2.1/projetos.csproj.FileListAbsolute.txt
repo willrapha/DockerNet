@@ -1,0 +1,11 @@
+C:\Users\Willian Raphael\Documents\Docker\projetos\appnetcore\bin\Debug\netcoreapp2.1\projetos.deps.json
+C:\Users\Willian Raphael\Documents\Docker\projetos\appnetcore\bin\Debug\netcoreapp2.1\projetos.runtimeconfig.json
+C:\Users\Willian Raphael\Documents\Docker\projetos\appnetcore\bin\Debug\netcoreapp2.1\projetos.runtimeconfig.dev.json
+C:\Users\Willian Raphael\Documents\Docker\projetos\appnetcore\bin\Debug\netcoreapp2.1\projetos.dll
+C:\Users\Willian Raphael\Documents\Docker\projetos\appnetcore\bin\Debug\netcoreapp2.1\projetos.pdb
+C:\Users\Willian Raphael\Documents\Docker\projetos\appnetcore\obj\Debug\netcoreapp2.1\projetos.csprojAssemblyReference.cache
+C:\Users\Willian Raphael\Documents\Docker\projetos\appnetcore\obj\Debug\netcoreapp2.1\projetos.csproj.CoreCompileInputs.cache
+C:\Users\Willian Raphael\Documents\Docker\projetos\appnetcore\obj\Debug\netcoreapp2.1\projetos.AssemblyInfoInputs.cache
+C:\Users\Willian Raphael\Documents\Docker\projetos\appnetcore\obj\Debug\netcoreapp2.1\projetos.AssemblyInfo.cs
+C:\Users\Willian Raphael\Documents\Docker\projetos\appnetcore\obj\Debug\netcoreapp2.1\projetos.dll
+C:\Users\Willian Raphael\Documents\Docker\projetos\appnetcore\obj\Debug\netcoreapp2.1\projetos.pdb
